@@ -1,0 +1,48 @@
+body {
+  background-color: #231942;
+  color: #e0b1cb;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: #231942;
+  text-shadow: 1px 0 10px #e0b1cb;
+}
+
+li {
+  list-style-type: none;
+}
+
+#gm-madtown-coffee {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #5e548e;
+  border:#e0b1cb 5px solid;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#agm-crumbl {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #9f86c0;
+  border: #edafb8 dashed 10px;
+  border-radius: 40px;
+  padding: 10px;
+  margin: 10px;
+  color: #231942;
+}
+
+#gm-white-bison {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: #edafb8;
+  border: #f7e1d7 dotted 20px;
+  border-radius: 80px;
+  padding: 10px;
+  margin: 10px;
+  color: #231942;
+}
